@@ -1,0 +1,3 @@
+[submodule "WASHApp"]
+	path = WASHApp
+	url = https://github.com/angular/angular-seed.git
